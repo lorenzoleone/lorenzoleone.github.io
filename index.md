@@ -1,6 +1,6 @@
 ---
 layout: page
-mathjax= true
+mathjax: true
 title: ""
 categories= media
 ---
