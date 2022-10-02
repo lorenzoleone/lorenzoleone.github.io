@@ -7,6 +7,16 @@ layout: post
 
  Although we still don't know what quantum chaos is, recently there have been some steps towards the comprehension of chaos: the theory of         quantum chaos is intimately connected to quantum pseudorandomness and quantum complexity. 
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <!-- more -->
  
  ## Chaos
