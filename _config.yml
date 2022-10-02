@@ -3,7 +3,7 @@ author: "Lorenzo Leone"
 description: "University of Massachusetts Boston"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n" 
+excerpt_separator: <!--more-->
 date_format: "%B %d, %Y"
 
 # Layout
