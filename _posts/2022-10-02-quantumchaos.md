@@ -2,6 +2,7 @@
 title:  "Quantum chaos and quantum complexity"
 mathjax: true
 layout: post
+categories: media
 ---
 
 
