@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "LeoneCV.md", title: CV}
+  - {link: "https://lorenzoleone.github.io/Leone_CV.pdf", title: CV}
   - {file: "README.md", title: "About me" }
   - {title: blog, file: "blog.md"}
 
