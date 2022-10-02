@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Research Interests"
 mathjax: true
 permalink: "/about/"
 layout: page
