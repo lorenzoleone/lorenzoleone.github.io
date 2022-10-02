@@ -1,7 +1,6 @@
 ---
 title: "Research Interests"
 mathjax: true
-permalink: "/about/"
 layout: page
 categories: media
 ---
@@ -9,3 +8,5 @@ categories: media
 
 ## yeah
 sasaas
+
+
