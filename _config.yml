@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: CV, url: "https://lorenzoleone.github.io/Leone_CV.pdf"}
   - {file: "README.md", title: "About me" }
-  - {title: blog, file: "blog.md"}
+  - {file: "blog.md", title: "blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lorenzo.leone001@umb.edu"}
