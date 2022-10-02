@@ -20,7 +20,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Curriculum Vitae, url: "https://lorenzoleone.github.io/Leone_CV.pdf"}
-  - {file: "README.md", title: "Research Interests" }
+  #- {file: "README.md", title: "Research Interests" }
   - {file: "blog.html", title: "Posts"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
