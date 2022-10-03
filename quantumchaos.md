@@ -11,9 +11,9 @@ The theory of quantum chaos is elusive to characterize. In classical chaos, a ch
 
 $$OTOC_{2k}(U)=\frac{1}{d}\operatorname{tr}(A_1(U)B_1A_2(U)B_2\cdots A_{k}(U)B_{k})$$
 
-where $A(U)=U^{\dagger}AU$ is the unitary evolution of a traceless Hermitian operator $A$. \\(\mathbf{I}_n\\)
+where \(A(U)=U^{\dagger}AU\) is the unitary evolution of a traceless Hermitian operator \(A\).
 
-Waiting for a more satisfactory definition of quantum chaos, I define a unitary operator U to be chaotic if it attains a Haar value for general multi-point (2k) OTOCs, i.e. the value that would be reached by a generic unitary operator. This definition helps to relate the concept of chaos to the one of quantum pseudorandomness: a set of unitary operators, say $\mathcal{E}$, is a unitary $k$-design iff it reproduces the value of $2k$-point OTOCs.
+Waiting for a more satisfactory definition of quantum chaos, I define a unitary operator U to be chaotic if it attains a Haar value for general multi-point (2k) OTOCs, i.e. the value that would be reached by a generic unitary operator. This definition helps to relate the concept of chaos to the one of quantum pseudorandomness: a set of unitary operators, say \(\mathcal{E}\), is a unitary \(k\)-design iff it reproduces the value of $2k$-point OTOCs. 
 
 ![transitions](websiteprova1.jpg)
   
