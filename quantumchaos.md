@@ -21,7 +21,9 @@ Waiting for a more satisfactory definition of quantum chaos, I define a unitary 
 
 While to form a \\(\epsilon\\)-approximate unitary design is sufficient to dope Clifford circuits with a vanishing density \\(t/n\\) of non-Clifford gates[^4], the task of reproducing higher order OTOCs requires much more resources.
 
-In [Quantum chaos is quantum](https://arxiv.org/abs/2102.08406), we proved that, to simulate quantum chaos, \\((i)\\) the accuracy \\(\epsilon\\)  must be exponentially small in \\(n\\) , and \\((ii)\\) \\(O(n)\\) non-Clifford resources are necessary and sufficient to reproduce the value of the \\(2k\\)-order OTOCs. As a by-product, the above results reflect the impossibility to simulate quantum chaos by classical resources: the simulation is indeed exponentially hard in \\(n\\). Quantum chaos can only be simulated quantum-mechanically.
+In [Quantum chaos is quantum](https://arxiv.org/abs/2102.08406), we proved that, to simulate quantum chaos, \\((i)\\) the accuracy \\(\epsilon\\)  must be exponentially small in \\(n\\) , and \\((ii)\\) \\(O(n)\\) non-Clifford resources are necessary and sufficient to reproduce the value of the \\(2k\\)-order OTOCs. As a by-product, the above results reflect the impossibility to simulate quantum chaos by classical resources: the simulation is indeed exponentially hard in \\(n\\), while requing only \\(O(poly(n))\\) quantum gates. Quantum chaos can only be simulated quantum-mechanically. 
+
+
 
 [^1]: [The Clifford group forms a unitary 3-design](https://arxiv.org/abs/1510.02769)
 [^2]: [Clifford group fails gracefully to be a unitary \\(4\\)-design](https://arxiv.org/abs/1609.08172)
