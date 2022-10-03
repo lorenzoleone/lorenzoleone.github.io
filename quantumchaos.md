@@ -27,7 +27,7 @@ $$ \text{Haar} \quad OTOC_8(U)= \frac{1}{d^4}$$
 
 $$ \text{Clifford} \quad OTOC_8(U)= \frac{1}{d^4}$$
 
-$$ t-\text{doped Clifford} \quad OTOC_8(U_t)= \frac{1}{d^2}\right(\frac{3}{4}\left)^t$$
+$$ t-\text{doped Clifford} \quad OTOC_8(U_t)= \frac{1}{d^2}(3/4)^t$$
 
 
 As a by-product, the above results reflect the impossibility to simulate quantum chaos by classical resources: the simulation is indeed exponentially hard in \\(n\\), while requing only \\(O(poly(n))\\) quantum gates. Quantum chaos can only be simulated quantum-mechanically. 
