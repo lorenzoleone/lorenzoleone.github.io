@@ -17,7 +17,7 @@ categories: media
 * ## Resource theory of magic:
   Magic is the quantum resource that allows quantum computers to attain the overwhelming computational advantage over classical computation. Without magic, a quantum computer cannot over-perform any classical computer. On the other hand, there exist quantum states possessing an extensive amount of magic, which still lack computational power. Such insufficiency is due to the absence of long-range quantum correlations, or entanglement. Indeed, it is the conjunction of magic and entanglement in a quantum state that makes that state a true resource for powerful quantum computation. My research aims to a deeper understanding of the synergy between magic and entanglement and its crucial role in the quantum advantage. 
   
-  [Contribution guidelines for this project](https://lorenzoleone.github.io/ciao)
+  [Read more](https://lorenzoleone.github.io/magic)
   
 
 
