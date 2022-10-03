@@ -14,9 +14,10 @@ $$OTOC_{2k}(U)=\frac{1}{d}\operatorname{tr}(A_1(U)B_1A_2(U)B_2\cdots A_{k}(U)B_{
 
 where \\(A(U)=U^{\dagger}AU\\) is the unitary evolution of a traceless Hermitian operator \\(A\\).
 
-Waiting for a more satisfactory definition of quantum chaos, I define a unitary operator U to be chaotic if it attains a Haar value for general multi-point (2k) OTOCs, i.e. the value that would be reached by a generic unitary operator. This definition helps to relate the concept of chaos to the one of quantum pseudorandomness: a set of unitary operators, say \\(\mathcal{E}\\), is a unitary \\(k\\)-design iff it reproduces the value of \\(2k\\)-point OTOCs. While a \\(k\\)-design is automatically a \\(k^\prime\\)-design for any \\(k^\prime<k\\), being a \\(k+1\\)-design is not garanteed. This is the case for the Clifford group: it is a unitary \\(3\\)-design, but fails to be a unitary \\(4\\)-design[^1]
+Waiting for a more satisfactory definition of quantum chaos, I define a unitary operator U to be chaotic if it attains a Haar value for general multi-point (2k) OTOCs, i.e. the value that would be reached by a generic unitary operator. This definition helps to relate the concept of chaos to the one of quantum pseudorandomness: a set of unitary operators, say \\(\mathcal{E}\\), is a unitary \\(k\\)-design iff it reproduces the value of \\(2k\\)-point OTOCs. While a \\(k\\)-design is automatically a \\(k^\prime\\)-design for any \\(k^\prime<k\\), being a \\(k+1\\)-design is not garanteed. This is the case for the Clifford group: it is a unitary \\(3\\)-design[^1], but fails to be a unitary \\(4\\)-design[^2].
 
-[^1]: lei
+[^1]: [The Clifford group forms a unitary 3-design](https://arxiv.org/abs/1510.02769)
+[^2]: [Clifford group fails gracefully to be a unitary \\(4\\)-design](https://arxiv.org/abs/1609.08172)
 
 ![transitions](websiteprova1.jpg)
   
