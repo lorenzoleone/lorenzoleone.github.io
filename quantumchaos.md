@@ -23,9 +23,9 @@ While to form a \\(\epsilon\\)-approximate unitary design is sufficient to dope 
 
 In [Quantum chaos is quantum](https://arxiv.org/abs/2102.08406), we proved that, to simulate quantum chaos, \\((i)\\) the accuracy \\(\epsilon\\)  must be exponentially small in \\(n\\) , and \\((ii)\\) \\(O(n)\\) non-Clifford resources are necessary and sufficient to reproduce the value of the \\(2k\\)-order OTOCs. 
 
-$$ \text{Haar} \quad OTOC_8(C)= \frac{1}{d^4}$$
+$$ \text{Haar} \quad OTOC_8(U)= \frac{1}{d^4}$$
 
-$$ \text{Clifford} \quad OTOC_8(U)= \frac{1}{d^2}$$
+$$ \text{Clifford} \quad OTOC_8(C)= \frac{1}{d^2}$$
 
 $$ t-\text{doped Clifford} \quad OTOC_8(U_t)= \frac{(3/4)^t}{d^2}$$
 
