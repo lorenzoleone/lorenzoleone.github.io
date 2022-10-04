@@ -32,6 +32,13 @@ $$ t-\text{doped Clifford} \quad OTOC_8(U_t)= \frac{(3/4)^t}{d^2}$$
 
 As a by-product, the above results reflect the impossibility to simulate quantum chaos by classical resources: the simulation is indeed exponentially hard in \\(n\\), while requing only \\(O(poly(n))\\) quantum gates. Quantum chaos can only be simulated quantum-mechanically. 
 
+The quantum simulation of quantum chaotic evolution can be done \\(i\\) either by doping Clifford circuits with non-Clifford gates, e.g. the \\(P_{\theta}\\)-gate
+
+$$P_{\theta}=\begin{pmatrix}
+1 &0 \\
+0 & e^{i\theta}
+\end{pmatrix}$$
+
 
 
 [^1]: [The Clifford group forms a unitary 3-design](https://arxiv.org/abs/1510.02769)
