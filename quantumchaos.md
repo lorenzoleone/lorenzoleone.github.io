@@ -39,6 +39,11 @@ $$P_{\theta}=\begin{pmatrix}
 0 & e^{i\theta}
 \end{pmatrix}$$
 
+or \\(ii\\) by single qubit projective measurement in a non-Clifford basis, the magic state basis:
+
+$$ |P_{\theta}\rangle=|0\rangle + e^{i\theta}|1\rangle$$.
+
+We indeed investigated such option in [Transition in entanglement complexity in random quantum circuit by measurements] finding that \\(O(n)\\) measurements are necessary and sufficient to create states whose entanglement is complex enough to resemble chaotic features.
 
 
 [^1]: [The Clifford group forms a unitary 3-design](https://arxiv.org/abs/1510.02769)
