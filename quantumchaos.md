@@ -47,6 +47,8 @@ We indeed investigated such option in [Transition in entanglement complexity in 
 
 ![transitions](TEC_figure.png)
 
+Above, the set up to construct a measurement-doped Clifford circuits. Projective measurments, in magic basis, is interleaved with global Clifford circuits that spread the magic throughout the system.
+
 [^1]: [The Clifford group forms a unitary 3-design](https://arxiv.org/abs/1510.02769)
 [^2]: [Clifford group fails gracefully to be a unitary \\(4\\)-design](https://arxiv.org/abs/1609.08172)
 [^3]: [Irreversibility and Entanglement Spectrum Statistics in Quantum Circuits](https://arxiv.org/abs/1407.4419)
