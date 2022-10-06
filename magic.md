@@ -13,6 +13,8 @@ Magic state resource theory has been widely employed for the problem of classica
 
 We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy. We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
 
-$$ \Xi(P):=d $$
+$$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
+
+is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). 
 How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
 
