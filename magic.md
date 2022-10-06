@@ -11,5 +11,8 @@ Quantum computers are more powerful than classical computer. They provide an ove
 
 Magic state resource theory has been widely employed for the problem of classical simulation of quantum dynamics. Clearly, quantum computation that can be efficiently reproduced classically cannot afford any quantum advantage. The question is: how many non-Clifford gates are, at least, necessary to achieve quantum advantage? The answer can be found in, where Bravyi and Gosset proved that the classical simulations of Clifford circuits doped with \\(t\\) non-Clifford gates is polynomially in the number of qubits \\(n\\), and exponential in \\(t\\). Thus, states created by, at least, \\(O(n)\\) non-Clifford gates can achieve a quantum speed-up.
 
+We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy. We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
+
+$$ \Xi(P):=d $$
 How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
 
