@@ -15,6 +15,6 @@ We introduced a novel measure of magic in terms of an entropic quantity, the Sta
 
 $$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
 
-is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). 
-How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
+is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
+
 
