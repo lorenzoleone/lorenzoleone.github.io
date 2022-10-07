@@ -65,9 +65,10 @@ This simple equation allows speculations on the nature of quantum chaos and its 
 [More on quantum chaos](https://lorenzoleone.github.io/quantumchaos/)
 
 
-The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process, or the correct preparation of a desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiment needed for the certification. In^[2] we bound the cost \\(M\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu, in terms of the Stabilizer Rènyi entropy:
+The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process, or the correct preparation of a desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiment needed for the certification. In^[2] we bound the cost 
+\\(M\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu, in terms of the Stabilizer Rènyi entropy:
 
-$$ O(e^{M_{2}(|\psi\rangle)) \le M\le O(e^{M_{0}(|\psi\rangle))$$
+$$ O(e^{M_{2}(|\psi\rangle))} \le M\le O(e^{M_{0}(|\psi\rangle))}$$
 
 
 
