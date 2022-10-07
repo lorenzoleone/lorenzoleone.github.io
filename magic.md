@@ -50,7 +50,7 @@ $$ M(|\psi\rangle_t)\approx t$$
 
 using the lower bound to the robustness of magic, the number of classical resources needed to classically simulate 
 \\(|\psi\rangle_t\\) scale exponentially in 
-\\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work^[1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
+\\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work[^1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
 
 ![experiment](experiment1.png)
 
@@ -65,10 +65,16 @@ This simple equation allows speculations on the nature of quantum chaos and its 
 [More on quantum chaos](https://lorenzoleone.github.io/quantumchaos/)
 
 
-The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process, or the correct preparation of a desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiment needed for the certification. In^[2] we bound the cost 
-\\(M\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu^[3], in terms of the Stabilizer Rènyi entropy:
+The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process, or the correct preparation of a desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiment needed for the certification. In[^2] we bound the cost 
+\\(N_{\psi}\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu[^3], in terms of the Stabilizer Rènyi entropy:
 
-$$ O(e^{M_{2}(|\psi\rangle)}) \le M\le O(e^{M_{0}(|\psi\rangle)})$$
+$$ O(e^{M_{2}(|\psi\rangle)}) \le N_{\psi}\le O(e^{M_{0}(|\psi\rangle)})$$
+
+Thus, the more magic a state contains, the harder the verification through a direct fidelity estimation protocol is. The above bounds also allow to see the (average) scaling of the resources in terms of the non-Clifford gates 
+\\(t\\) used to prepare a given state
+\\(|\psi\rangle_t\\):
+
+$$ N_{\psi}=O(\exp(t)) $$
 
 
 [^1]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
