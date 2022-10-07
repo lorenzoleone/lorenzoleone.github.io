@@ -82,7 +82,7 @@ This simple equation allows speculations on the nature of quantum chaos and its 
 
 $$ O(e^{M_{2}(|\psi\rangle)}) \le N_{\psi}\le O(e^{M_{0}(|\psi\rangle)})$$
 
-Thus, the more magic a state contains, the harder the verification through a direct fidelity estimation protocol is. The above bounds also allow seeing the (average) scaling of the resources in terms of the non-Clifford gates 
+Thus, the more magic a state contains, the harder the verification through a direct fidelity estimation protocol is. The above bounds also allow the calculation of the (average) scaling of the resources in terms of the non-Clifford gates 
 \\(t\\) used to prepare a given state
 \\(|\psi\rangle_t\\):
 
