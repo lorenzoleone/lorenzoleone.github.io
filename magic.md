@@ -12,7 +12,7 @@ Quantum computers are more powerful than classical computers. They provide an ov
 
 On the other hand, quantum computation employing non-entangling and magic gates can still be efficiently simulated classically with an algorithm scaling linearly in the number of qubits. Such a simple consideration tells that is rather the conjunction of these two resources, magic and entanglement, that allows computation attaining an advantage over classical computation. While the interplay between these two resources is not clear yet, in what follows, we will only focus on the framework for which the entanglement is a free resource - created by entangling Clifford gates - and the magic is the expensive one. 
 
-Magic state resource theory has been widely employed for the problem of classical simulation of quantum dynamics. Clearly, a quantum computation that can be efficiently reproduced classically cannot afford any quantum advantage. The question is: how many non-Clifford gates are, at least, necessary to achieve quantum advantage? A hint to this answer can be found in, where Bravyi and Gosset proved that the classical simulations of Clifford circuits doped with \\(t\\) non-Clifford gates is polynomially in the number of qubits \\(n\\), and exponential in \\(t\\). Thus, states created by, at least, \\(O(n)\\) non-Clifford gates can achieve a quantum speed-up. A measure of magic, say 
+Magic state resource theory has been widely employed for the problem of classical simulation of quantum dynamics. Clearly, a quantum computation that can be efficiently reproduced classically cannot afford any quantum advantage. The question is: how many non-Clifford gates are, at least, necessary to achieve quantum advantage? A hint to this answer can be found in[^1], where Bravyi and Gosset proved that the classical simulations of Clifford circuits doped with \\(t\\) non-Clifford gates is polynomially in the number of qubits \\(n\\), and exponential in \\(t\\). Thus, states created by, at least, \\(O(n)\\) non-Clifford gates can achieve a quantum speed-up. A measure of magic, say 
 \\(M(|\psi\rangle)\\), should therefore have the operational meaning of non-classical simulability: the more \\(M(|\psi\rangle)\\) increases the more expensive is the classical simulation of \\(|\psi\rangle\\).
 
 One of the first introduced measures of magic, the [robustness of magic](https://arxiv.org/abs/1609.07488) 
@@ -50,7 +50,7 @@ $$ M(|\psi\rangle_t)\approx t$$
 
 using the lower bound to the robustness of magic, the number of classical resources needed to classically simulate 
 \\(|\psi\rangle_t\\) scale exponentially in 
-\\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work[^1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
+\\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work[^2], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
 
 ![experiment](experiment1.png)
 
@@ -65,8 +65,8 @@ This simple equation allows speculations on the nature of quantum chaos and its 
 [More on quantum chaos](https://lorenzoleone.github.io/quantumchaos/)
 
 
-The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process or the correct preparation of the desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiments needed for the certification. In[^2] we bound the cost 
-\\(N_{\psi}\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu[^3], in terms of the Stabilizer Rènyi entropy:
+The stabilizer Rènyi entropy also reveals the connection between the resource theory of magic states and the problem of quantum certification of quantum states. A quantum certificate guarantees the correct application of a given quantum process or the correct preparation of the desired quantum state. This is commonly done in terms of a measure of quality, i.e. a measure of distance having the interpretation of worst-case distinguishability. However, the bottleneck of certification procedures is the feasibility in terms of resources, i.e. the number of experiments needed for the certification. In[^3] we bound the cost 
+\\(N_{\psi}\\) of a direct fidelity estimation protocol, introduced by Flammia and Liu[^4], in terms of the Stabilizer Rènyi entropy:
 
 $$ O(e^{M_{2}(|\psi\rangle)}) \le N_{\psi}\le O(e^{M_{0}(|\psi\rangle)})$$
 
@@ -81,9 +81,9 @@ which tells us that, on average, the certification protocol is efficient as long
 
 As the above results tell, magic state resource theory is more powerful than imagined. Magic is (one of) the key resource lying behind the concept of quantum advantage. Its careful study indeed has already revealed connections with the theory of quantum chaos and the problem of direct quantum certification of quantum states. That said, more investigation is needed to build a complete picture of.. 
 
-
-[^1]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
-[^2]: [Magic hinders quantum certification](https://arxiv.org/abs/2204.02995)
-[^3]: [Direct Fidelity Estimation from Few Pauli Measurements](https://arxiv.org/abs/1104.4695)
+[^1]: [Improved classical simulation of quantum circuits dominated by Clifford gates](https://arxiv.org/abs/1601.07601)
+[^2]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
+[^3]: [Magic hinders quantum certification](https://arxiv.org/abs/2204.02995)
+[^4]: [Direct Fidelity Estimation from Few Pauli Measurements](https://arxiv.org/abs/1104.4695)
 
 
