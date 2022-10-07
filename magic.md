@@ -2,6 +2,7 @@
 title: "Magic state resource theory and quantum advantage"
 mathjax: true
 layout: page
+syntax-id: footnotes
 categories: media
 permalink: "/magic/"
 ---
