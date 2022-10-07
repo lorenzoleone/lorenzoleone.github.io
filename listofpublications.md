@@ -6,7 +6,7 @@ syntax-id: footnotes
 categories: media
 ---
 
-<b> d </b>
+<b> PUBLICATIONS </b>
 
 
 
@@ -20,3 +20,14 @@ categories: media
 * Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Isospectral twirling and quantum chaos </i>, [Entropy 2021, 23(8), 1073(2021)](https://doi.org/10.3390/e23081073)
 * Max Kurkov, Lorenzo Leone, <i> Remark on the synergy between the heat kernel techniques and the parity anomaly, </i>
 [International Journal of Geometric Methods in Modern Physics, 17, 2050002-679(2020)](https://doi.org/10.1142/S0219887820500024)
+
+
+<b> PREPRINTS </b>
+
+* Lorenzo Leone, Salvatore F.E. Oliviero, Stefano Piemontese, Sarah True, Alioscia Hamma, <i> Learning a mocking black hole </i>, https://doi.org/10.48550/arXiv.2206.06385
+\item Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma \\ {\em Magic of the ground state of the transverse field Ising model} \\
+\url{https://doi.org/10.48550/arXiv.2205.02247}
+\item Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma \\ {\em Magic hinders quantum certification} \\
+\url{https://doi.org/10.48550/arXiv.2204.02995}
+\item Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd \\ {\em Measuring magic on a quantum processor} \\
+\url{https://arxiv.org/abs/2204.00015}
