@@ -45,7 +45,7 @@ where \\(S_{\alpha}(\Xi)\\) is the [\\(\alpha\\)-Rènyi entropy](https://en.wiki
 $$ M_{\alpha}(|\psi\rangle)\le 2 R(|\psi\rangle) $$
 
 With the stabilizer Rènyi entropy we can readily reproduce the result from Bravyi and Gosset: let \\(t\\) be the number of non-Clifford gates used to create the state 
-\\(|\psi\rangle_t\\), then:
+\\(|\psi\rangle_t\\), then it is straightforward to show that the stabilizer Rènyi entropy is (on average) linear in \\(t\\)
 
 $$ M(|\psi\rangle_t)\approx t$$
 
