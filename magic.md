@@ -21,7 +21,8 @@ One of the first introduced measures of magic, the [robustness of magic](https:/
 
 $$ N=O(e^{R(|\psi\rangle)}) $$
 
-therefore whenever \\(R(|\psi\rangle)=O(n)\\), the classical simulation becomes unfeasible. Unfortunately, the robustness of magic involves a minimization procedure over all the stabilizer decomposition of 
+therefore whenever 
+\\(R(|\psi\rangle)=O(n)\\), the classical simulation becomes unfeasible. Unfortunately, the robustness of magic involves a minimization procedure over all the stabilizer decomposition of 
 \\(|\psi\rangle\\), which makes the computation of 
 \\(R(|\psi\rangle)}\\) impossible even for \\(n\sim 5\\). We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy 
 \\(M(|\psi\rangle)\\). We show that a family of magic measures is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli strings, then:
