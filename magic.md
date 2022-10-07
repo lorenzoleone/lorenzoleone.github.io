@@ -15,7 +15,7 @@ States created by some non-Clifford gates are said to possess magic. Magic state
 
 One of the first introduced measure of magic, the [robustness of magic](https://arxiv.org/abs/1609.07488) \\(R(|\psi\rangle)\\), has exaclty this property: let \\(N\\) be the number of non-classical resources needed for the classical simulation of \\(|\psi\rangle\\), then:
 
-$$ N=O(\exp[R(|\psi\rangle)]) $$
+$$ N=O(e^{R(|\psi\rangle)}) $$
 
 We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy. We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
 
