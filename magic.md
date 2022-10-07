@@ -41,7 +41,7 @@ $$ M(|\psi\rangle_t)\approx t$$
 
 using the lower bound to the robustness of magic, the number of classical resources needed to classically simulate \\(|\psi\rangle_t\\) scale exponentially in \\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work^[1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
 
-![transitions](MagPur1Qui.png)
+![experiment](MagPur1Qui2.png)
 
 
 However, one of the main features of the Stabilizer Rènyi entropy is that it is able to reveal the tight connection between the resource theory of magic and the concept of quantum chaos. The amount of magic that a unitary evolution can generate, its \textit{non-stabilizing power}, is intimately connected to multi-point OTOCs. In particular, the $k$-th R\`enyi entropy of the [Choi state](https://en.wikipedia.org/wiki/Choi–Jamiołkowski_isomorphism) \\(|U\rangle\\) associated with a unitary operator $U$ is equal to the logarithm of a $4k$-point OTOC associated with $U$:
