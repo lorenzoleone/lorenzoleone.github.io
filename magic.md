@@ -60,6 +60,8 @@ Given the above results, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it
 ![experiment](experiment1.png)
 
 
+ <b> MAGIC AND QUANTUM CHAOS </b>
+
 However, one of the main features of the Stabilizer Rènyi entropy is that it is able to reveal the tight connection between the resource theory of magic and the concept of quantum chaos. The amount of magic that a unitary evolution can generate, its \textit{non-stabilizing power}, is intimately connected to multi-point OTOCs. In particular, the $k$-th R\`enyi entropy of the [Choi state](https://en.wikipedia.org/wiki/Choi–Jamiołkowski_isomorphism) 
 \\(|U\rangle\\) associated with a unitary operator $U$ is equal to the logarithm of a $4k$-point OTOC associated with $U$:
 
