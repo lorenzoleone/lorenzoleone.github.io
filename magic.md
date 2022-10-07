@@ -44,7 +44,7 @@ where \\(S_{\alpha}(\Xi)\\) is the [\\(\alpha\\)-Rènyi entropy](https://en.wiki
 
 $$ M_{\alpha}(|\psi\rangle)\le 2 R(|\psi\rangle) $$
 
-these three properties listed above allow the estimation of the classical simulation overhead, \\(N\\) defined above, possible up to \\(n\sim 20\\). With the stabilizer Rènyi entropy we can readily reproduce the result from Bravyi and Gosset: let \\(t\\) be the number of non-Clifford gates used to create the state 
+With the stabilizer Rènyi entropy we can readily reproduce the result from Bravyi and Gosset: let \\(t\\) be the number of non-Clifford gates used to create the state 
 \\(|\psi\rangle_t\\), then:
 
 $$ M(|\psi\rangle_t)\approx t$$
