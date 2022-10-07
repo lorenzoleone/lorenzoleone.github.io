@@ -27,7 +27,7 @@ is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). The pro
 * It can be experimentally measured via a randomized measurement protocol.
 * It lower bounds the robustness of magic \\(R(|\psi\rangle)\\):
 
-$$ \\(M(|\psi\rangle)\\)\le 2 R(|\psi\rangle) $$
+$$ M(|\psi\rangle)\le 2 R(|\psi\rangle) $$
 
 these three properties listed above allow a computation of the classical simulation overhead, \\(N\\) defined above, possible up to \\(n\sim 20\\).
 
