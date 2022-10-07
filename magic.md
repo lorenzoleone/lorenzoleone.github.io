@@ -21,7 +21,10 @@ One of the first introduced measure of magic, the [robustness of magic](https://
 
 $$ N=O(e^{R(|\psi\rangle)}) $$
 
-Unfortutately, the robustness of magic involves a minimization procedure over all the stabilizer decomposition of \\(|\psi\rangle\\), which makes the computation of \\(R(|\psi\rangle)}\\) impossible even for \\(n\sim 5\\). We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy \\(M(|\psi\rangle)\\). We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
+Unfortutately, the robustness of magic involves a minimization procedure over all the stabilizer decomposition of 
+\\(|\psi\rangle\\), which makes the computation of 
+\\(R(|\psi\rangle)}\\) impossible even for \\(n\sim 5\\). We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy 
+\\(M(|\psi\rangle)\\). We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
 
 $$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
 
@@ -31,7 +34,8 @@ $$ M_{\alpha}(|\psi\rangle)= S_{\alpha}(\Xi)-\log d $$
 
 where \\(S_{\alpha}(\Xi)\\) is the [\\(\alpha\\)-Rènyi entropy](https://en.wikipedia.org/wiki/Rényi_entropy) of the probability distribution \\(\Xi\\). The properties that make the Stabilizer Rènyi entropy an excellent candidate as a measure of magic are:
 
-* The computation of \\(M_{\alpha}(|\psi\rangle)\\) involves at most \\(2^{2n}\\) expectation values.
+* The computation of 
+\\(M_{\alpha}(|\psi\rangle)\\) involves at most \\(2^{2n}\\) expectation values.
 * The \\(2\\)-Rènyi entropy can be recast in terms of a single expectation value of an hermitian operator defined on \\(4\\) copies of the Hilbert space.
 * It can be experimentally measured via a randomized measurement protocol.
 * It lower bounds the robustness of magic \\(R(|\psi\rangle)\\):
