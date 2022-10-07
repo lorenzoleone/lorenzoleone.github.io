@@ -16,7 +16,8 @@ States created by some non-Clifford gates are said to possess magic. Magic state
 \\(M(|\psi\rangle)\\), should therefore have the operational meaning of non-classical simulability: the more \\(M(|\psi\rangle)\\) increases the more expensive is the classical simulation of \\(|\psi\rangle\\).
 
 One of the first introduced measure of magic, the [robustness of magic](https://arxiv.org/abs/1609.07488)
-\\(R(|\psi\rangle)\\), has exaclty this property: let \\(N\\) be the number of non-classical resources needed for the classical simulation of \\(|\psi\rangle\\), then:
+\\(R(|\psi\rangle)\\), has exaclty this property: let \\(N\\) be the number of non-classical resources needed for the classical simulation of 
+\\(|\psi\rangle\\), then:
 
 $$ N=O(e^{R(|\psi\rangle)}) $$
 
