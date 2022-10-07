@@ -86,7 +86,7 @@ Thus, the more magic a state contains, the harder the verification through a dir
 $$ N_{\psi}=O(\exp(t)) $$
 
 which tells us that, on average, the certification protocol is efficient as long as the amount of non-Clifford gates used is 
-\\(O(log n)\\). Remarkably, this is the same threshold for a quantum state to be efficiently simulated classically. The quantum computation able to unlock a quantum speedup is the one for which the direct fidelity estimation is not feasible: the same complexity that makes quantum technology powerful is the one that inhibits its certification.
+\\(O(\log n)\\). Remarkably, this is the same threshold for a quantum state to be efficiently simulated classically. The quantum computation able to unlock a quantum speedup is the one for which the direct fidelity estimation is not feasible: the same complexity that makes quantum technology powerful is the one that inhibits its certification.
 
 As the above results tell, magic state resource theory is more powerful than imagined. Magic is (one of) the key resource lying behind the concept of quantum advantage. Its careful study indeed has already revealed connections with the theory of quantum chaos and the problem of direct quantum certification of quantum states. That said, much more investigation is needed to build a complete picture of what quantum advantage means. 
 
