@@ -13,6 +13,10 @@ On the other hand, quantum computation employing non-entangling and magic gates 
 
 States created by some non-Clifford gates are said to possess magic. Magic state resource theory has been widely employed for the problem of classical simulation of quantum dynamics. Clearly, quantum computation that can be efficiently reproduced classically cannot afford any quantum advantage. The question is: how many non-Clifford gates are, at least, necessary to achieve quantum advantage? An hint to this answer can be found in, where Bravyi and Gosset proved that the classical simulations of Clifford circuits doped with \\(t\\) non-Clifford gates is polynomially in the number of qubits \\(n\\), and exponential in \\(t\\). Thus, states created by, at least, \\(O(n)\\) non-Clifford gates can achieve a quantum speed-up. A measure of magic, say \\(M(|\psi\rangle)\\), should therefore have the operational meaning of non-classical simulability: the more \\(M(|\psi\rangle)\\) increases the more expensive is the classical simulation of \\(|\psi\rangle\\).
 
+One of the first introduced measure of magic, the [robustness of magic](https://arxiv.org/abs/1609.07488) \\(R(|\psi\rangle)\\), has exaclty this property: let \\(N\\) be the number of non-classical resources needed for the classical simulation of \\(|\psi\rangle\\), then:
+
+$$ N=O(\exp(R(|\psi\rangle))) $$
+
 We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy. We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
 
 $$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
