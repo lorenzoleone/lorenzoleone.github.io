@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lorenzo.leone001@umb.edu"}
   - {title: Scholar, icon: google, url: "https://scholar.google.com/citations?user=J-Ean3MAAAAJ&hl=it"}
-  - {title: Twitter, icon: twitter, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://mobile.twitter.com/lorenzo_leone_"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
