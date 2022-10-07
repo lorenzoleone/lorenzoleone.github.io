@@ -17,10 +17,23 @@ One of the first introduced measure of magic, the [robustness of magic](https://
 
 $$ N=O(e^{R(|\psi\rangle)}) $$
 
-We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy. We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
+Unfortutately, the robustness of magic involves a minimization procedure over all the stabilizer decomposition of \\(|\psi\rangle\\), which makes the computation of \\(R(|\psi\rangle)}\\) impossible even for \\(n\sim 5\\). We introduced a novel measure of magic in terms of an entropic quantity, the Stabilizer Rènyi entropy \\(M(|\psi\rangle)\\). We show that a family of magic measure is obtained by the Rènyi entropies of the probability distribution given by the expectation value of Pauli strings. Let \\(\mathbb{P}\\) the set of all Pauli string, then:
 
 $$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
 
-is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
+is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). The properties that make the Stabilizer Rènyi entropy an excellent candidate as a measure of magic are:
+
+* The computation of \\(M(|\psi\rangle)\\) involves at most \\(2^{2n}\\) expectation values.
+* It can be experimentally measured via a randomized measurement protocol.
+* It lower bounds the robustness of magic \\(R(|\psi\rangle)\\):
+
+$$ \\(M(|\psi\rangle)\\)\le 2 R(|\psi\rangle) $$
+
+these three properties listed above allow a computation of the classical simulation overhead, \\(N\\) defined above, possible up to \\(n\sim 20\\).
+
+
+
+The stabilizer Rènyi entropy has the fundamental property to be a lower bound for the robustness of magic
+How does the magic scale with the number \\(t\\) of non-Clifford gates injected in the circuits? 
 
 
