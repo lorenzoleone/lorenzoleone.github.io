@@ -25,10 +25,9 @@ categories: media
 <b> PREPRINTS </b>
 
 * Lorenzo Leone, Salvatore F.E. Oliviero, Stefano Piemontese, Sarah True, Alioscia Hamma, <i> Learning a mocking black hole </i>, https://doi.org/10.48550/arXiv.2206.06385
-\item Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma \\ {\em Magic of the ground state of the transverse field Ising model} \\
-\url{https://doi.org/10.48550/arXiv.2205.02247}
-\item Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma \\ {\em Magic hinders quantum certification} \\
-\url{https://doi.org/10.48550/arXiv.2204.02995}
-\item Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd \\ {\em Measuring magic on a quantum processor} \\
-\url{https://arxiv.org/abs/2204.00015}
+* Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, <i> Magic of the ground state of the transverse field Ising model </i>, https://doi.org/10.48550/arXiv.2205.02247
+
+* Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Magic hinders quantum certification </i>, https://doi.org/10.48550/arXiv.2204.02995
+
+* Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd, <i> Measuring magic on a quantum processor </i>, https://doi.org/10.48550/arXiv.2204.00015
 
