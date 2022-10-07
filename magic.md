@@ -54,7 +54,7 @@ using the lower bound to the robustness of magic, the number of classical resour
 \\(|\psi\rangle_t\\) scale exponentially in 
 \\(t\\). 
 
-Given the above results, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work[^2], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
+Given the above results, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work[^2], we indeed experimentally measure the stabilizer Rènyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
 
 ![experiment](experiment1.png)
 
