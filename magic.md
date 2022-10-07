@@ -71,8 +71,8 @@ The stabilizer Rènyi entropy also reveals the connection between the resource t
 $$ O(e^{M_{2}(|\psi\rangle)}) \le M\le O(e^{M_{0}(|\psi\rangle)})$$
 
 
-[1]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
-[2]: [Magic hinders quantum certification](https://arxiv.org/abs/2204.02995)
-[3]: [Direct Fidelity Estimation from Few Pauli Measurements](https://arxiv.org/abs/1104.4695)
+[^1]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
+[^2]: [Magic hinders quantum certification](https://arxiv.org/abs/2204.02995)
+[^3]: [Direct Fidelity Estimation from Few Pauli Measurements](https://arxiv.org/abs/1104.4695)
 
 
