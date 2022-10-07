@@ -76,6 +76,9 @@ Thus, the more magic a state contains, the harder the verification through a dir
 
 $$ N_{\psi}=O(\exp(t)) $$
 
+which tells us that, on average, the certification protocol is efficient as long as the amount of non- Clifford gates used is 
+\\(O(log n)\\). Remarkably, this is the same threshold for a quantum state to be efficiently simulated classically. The quantum computation able to unlock a quantum speedup is the one for which the direct fidelity estimation is not feasible: the same complexity that makes quantum technology powerful is the one that inhibits its certification.
+
 
 [^1]: [Measuring magic on a quantum processor](https://arxiv.org/abs/2204.00015)
 [^2]: [Magic hinders quantum certification](https://arxiv.org/abs/2204.02995)
