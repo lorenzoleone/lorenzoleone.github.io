@@ -25,7 +25,7 @@ is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). The sta
 
 $$ M_{\alpha}(|\psi\rangle)= S_{\alpha}(\Xi)-\log d $$
 
-The properties that make the Stabilizer Rènyi entropy an excellent candidate as a measure of magic are:
+where \\(S_{\alpha}(\Xi)\\) is the \\(\alpha\\)-Rènyi entropy of the probability distribution \\(\Xi\\). The properties that make the Stabilizer Rènyi entropy an excellent candidate as a measure of magic are:
 
 * The computation of \\(M(|\psi\rangle)\\) involves at most \\(2^{2n}\\) expectation values.
 * It can be experimentally measured via a randomized measurement protocol.
