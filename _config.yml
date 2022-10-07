@@ -19,7 +19,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Curriculum Vitae, url: "https://lorenzoleone.github.io/Leone_CV.pdf"}
+  - {title: Curriculum Vitae, url: "https://lorenzoleone.github.io/CV_LorenzoLeone.pdf"}
   - {file: "README.md", title: "Research Interests" }
   - {file: "listofpublications.md", title: "Publications"}
 
