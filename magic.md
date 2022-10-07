@@ -38,7 +38,8 @@ where \\(S_{\alpha}(\Xi)\\) is the [\\(\alpha\\)-Rènyi entropy](https://en.wiki
 \\(M_{\alpha}(|\psi\rangle)\\) involves at most \\(2^{2n}\\) expectation values.
 * The \\(2\\)-Rènyi entropy can be recast in terms of a single expectation value of an hermitian operator defined on \\(4\\) copies of the Hilbert space.
 * It can be experimentally measured via a randomized measurement protocol.
-* It lower bounds the robustness of magic \\(R(|\psi\rangle)\\):
+* It lower bounds the robustness of magic 
+\\(R(|\psi\rangle)\\):
 
 $$ M_{\alpha}(|\psi\rangle)\le 2 R(|\psi\rangle) $$
 
@@ -47,12 +48,15 @@ these three properties listed above allow a computation of the classical simulat
 
 $$ M(|\psi\rangle_t)\approx t$$
 
-using the lower bound to the robustness of magic, the number of classical resources needed to classically simulate \\(|\psi\rangle_t\\) scale exponentially in \\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work^[1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
+using the lower bound to the robustness of magic, the number of classical resources needed to classically simulate 
+\\(|\psi\rangle_t\\) scale exponentially in 
+\\(t\\). Thus, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. In a subsequent work^[1], we indeed experimentally measure the stabilizer R\`enyi entropy on two IBM quantum falcon processors and characterize their ability to create a reliable amount of magic. Below the first direct measurement of the magic possesses by single qubit states:
 
 ![experiment](experiment1.png)
 
 
-However, one of the main features of the Stabilizer Rènyi entropy is that it is able to reveal the tight connection between the resource theory of magic and the concept of quantum chaos. The amount of magic that a unitary evolution can generate, its \textit{non-stabilizing power}, is intimately connected to multi-point OTOCs. In particular, the $k$-th R\`enyi entropy of the [Choi state](https://en.wikipedia.org/wiki/Choi–Jamiołkowski_isomorphism) \\(|U\rangle\\) associated with a unitary operator $U$ is equal to the logarithm of a $4k$-point OTOC associated with $U$:
+However, one of the main features of the Stabilizer Rènyi entropy is that it is able to reveal the tight connection between the resource theory of magic and the concept of quantum chaos. The amount of magic that a unitary evolution can generate, its \textit{non-stabilizing power}, is intimately connected to multi-point OTOCs. In particular, the $k$-th R\`enyi entropy of the [Choi state](https://en.wikipedia.org/wiki/Choi–Jamiołkowski_isomorphism) 
+\\(|U\rangle\\) associated with a unitary operator $U$ is equal to the logarithm of a $4k$-point OTOC associated with $U$:
 
 $$ M_{\alpha}(|U\rangle)=\frac{1}{1-\alpha}\log \operatorname{OTOC}_{4\alpha}(U)$$
 
