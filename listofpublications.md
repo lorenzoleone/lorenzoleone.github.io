@@ -10,7 +10,7 @@ categories: media
 
 
 
-* Lorenzo Leone, Salvatore F.E. Oliviero, Y. Zhou, Alioscia Hamma, <i> Stabilizer R\'enyi entropy </i> [Physical Review Letters 128, 050402(2022)](https://doi.org/10.1103/PhysRevLett.128.050402)
+* Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Stabilizer R\'enyi entropy </i> [Physical Review Letters 128, 050402(2022)](https://doi.org/10.1103/PhysRevLett.128.050402)
 
 * Salvatore F.E. Oliviero, Lorenzo Leone, You Zhou, Alioscia Hamma, <i> Stability of topological purity under random local unitaries </i>, [SciPost Phys. 12, 096 (2022)](https://scipost.org/SciPostPhys.12.3.096)
 
