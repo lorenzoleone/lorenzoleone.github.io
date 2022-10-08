@@ -56,7 +56,7 @@ using the lower bound to the robustness of magic, the number of classical resour
 
  <b> MEASURING MAGIC ON A REAL HARDWARE? NOW IS POSSIBLE </b>
 
-Given the above results, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. The stabilizer Rènyi entropy possesses the worthnoting property to be experimentally measurable, and indeed we conducted the experiment on two [IBM](https://www.ibm.com/quantum) quantum falcon processors to characterize their ability to create a reliable amount of magic[^2]. Below the first direct measurement of the magic possesses by single qubit states, i.e. 
+Given the above results, in the [NISQ](https://arxiv.org/abs/1801.00862) era, it is of paramount importance to be able to characterize the proposed hardware on how good these machines are at performing quantum computation to attain an advantage over classical computation. The stabilizer Rènyi entropy possesses the worthnoting property to be experimentally measurable, and indeed we conducted the experiment on two [IBM](https://www.ibm.com/quantum) quantum falcon processors to characterize their ability to create a reliable amount of magic[^2]. Below the first direct measurement of the magic possessed by single qubit states, i.e. 
 \\(|P_{\theta}\rangle=|0\rangle + e^{i\theta}|1\rangle\\):
 
 ![experiment](experiment1.png)
