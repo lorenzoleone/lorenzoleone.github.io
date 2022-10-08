@@ -31,3 +31,5 @@ categories: media
 
 * Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd, <i> Measuring magic on a quantum processor </i>, [https://doi.org/10.48550/arXiv.2204.00015](https://doi.org/10.48550/arXiv.2204.00015)
 
+
+[For a .pdf version click here]()
