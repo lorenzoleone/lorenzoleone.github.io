@@ -29,7 +29,7 @@ therefore whenever
 
 $$ \Xi(P):=\frac{\langle\psi|P|\psi\rangle^2}{d} $$
 
-is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). The stabilizer Rènyi entropy is defined as:
+is a probability distribution, i.e. \\(\sum_{P\in\mathbb{P}}\Xi(P)=1\\). The stabilizer Rènyi entropy is therefore defined as:
 
 $$ M_{\alpha}(|\psi\rangle)= S_{\alpha}(\Xi)-\log d $$
 
