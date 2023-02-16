@@ -11,7 +11,7 @@ categories: media
 
 
 * Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Stabilizer R\'enyi entropy </i> [Physical Review Letters 128, 050402(2022)](https://doi.org/10.1103/PhysRevLett.128.050402)
-* Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd, <i> Measuring magic on a quantum processor </i>, [npj Quantum Information volume 8, 148 (2022)](https://www.nature.com/articles/s41534-022-00666-5)
+* Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, Seth Lloyd, <i> Measuring magic on a quantum processor </i>, [npj Quantum Information 8, 148 (2022)](https://www.nature.com/articles/s41534-022-00666-5)
 * Salvatore F.E. Oliviero, Lorenzo Leone, You Zhou, Alioscia Hamma, <i> Stability of topological purity under random local unitaries </i>, [SciPost Phys. 12, 096 (2022)](https://scipost.org/SciPostPhys.12.3.096)
 
 * Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, <i> Transitions in entanglement complexity in random quantum circuits by measurements, </i> [Physics Letters A, 127721(2021)](https://doi.org/10.1016/j.physleta.2021.127721)
