@@ -19,6 +19,7 @@ categories: media
 * Salvatore F.E. Oliviero, Lorenzo Leone, Francesco Caravelli, Alioscia Hamma, <i> Random Matrix Theory of the Isospectral Twirling </i>, [SciPost Phys. 10, 076 (2021)](https://scipost.org/SciPostPhys.10.3.076)
 * Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Isospectral twirling and quantum chaos </i>, [Entropy 2021, 23(8), 1073(2021)](https://doi.org/10.3390/e23081073)
 * Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, <i> Magic-state resource theory for the ground state of the transverse field Ising model </i>, [Phys. Rev. A 106, 042426](https://link.aps.org/doi/10.1103/PhysRevA.106.042426)
+* Lorenzo Leone, Salvatore F.E. Oliviero, Stefano Piemontese, Sarah True, Alioscia Hamma, <i> Retrieving Information from a black hole using quantum machine learning </i>, [Phys. Rev. A 106, 062434](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.062434)
 * Max Kurkov, Lorenzo Leone, <i> Remark on the synergy between the heat kernel techniques and the parity anomaly, </i>
 [International Journal of Geometric Methods in Modern Physics, 17, 2050002-679(2020)](https://doi.org/10.1142/S0219887820500024)
 
