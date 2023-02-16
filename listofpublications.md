@@ -20,6 +20,8 @@ categories: media
 * Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Isospectral twirling and quantum chaos </i>, [Entropy 2021, 23(8), 1073(2021)](https://doi.org/10.3390/e23081073)
 * Salvatore F.E. Oliviero, Lorenzo Leone, Alioscia Hamma, <i> Magic-state resource theory for the ground state of the transverse field Ising model </i>, [Phys. Rev. A 106, 042426](https://link.aps.org/doi/10.1103/PhysRevA.106.042426)
 * Lorenzo Leone, Salvatore F.E. Oliviero, Stefano Piemontese, Sarah True, Alioscia Hamma, <i> Retrieving Information from a black hole using quantum machine learning </i>, [Phys. Rev. A 106, 062434](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.062434)
+* Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Nonstabilizerness determining the hardness of direct fidelity estimation </i>, Accepted in Phys. Rev. A, [https://doi.org/10.48550/arXiv.2204.02995](https://doi.org/10.48550/arXiv.2204.02995)
+
 * Max Kurkov, Lorenzo Leone, <i> Remark on the synergy between the heat kernel techniques and the parity anomaly, </i>
 [International Journal of Geometric Methods in Modern Physics, 17, 2050002-679(2020)](https://doi.org/10.1142/S0219887820500024)
 
@@ -27,7 +29,7 @@ categories: media
 <b> PREPRINTS </b>
 
 
-* Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Magic hinders quantum certification </i>, [https://doi.org/10.48550/arXiv.2204.02995](https://doi.org/10.48550/arXiv.2204.02995)
+
 * Lorenzo Leone, Salvatore F.E. Oliviero, Seth Lloyd, Alioscia Hamma, <i> Learning efficient decoders for quasi-chaotic quantum scramblers </i>, [https://doi.org/10.48550/arXiv.2212.11338](https://doi.org/10.48550/arXiv.2212.11338)
 * Salvatore F.E. Oliviero, Lorenzo Leone, Seth Lloyd, Alioscia Hamma, <i> Black hole complexity, unscrambling and stabilizer thermal machines </i>, [https://doi.org/10.48550/arXiv.2212.11337](https://doi.org/10.48550/arXiv.2212.11337)
 
