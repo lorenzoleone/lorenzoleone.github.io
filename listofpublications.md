@@ -28,6 +28,8 @@ categories: media
 
 
 * Lorenzo Leone, Salvatore F.E. Oliviero, Alioscia Hamma, <i> Magic hinders quantum certification </i>, [https://doi.org/10.48550/arXiv.2204.02995](https://doi.org/10.48550/arXiv.2204.02995)
+* Lorenzo Leone, Salvatore F.E. Oliviero, Seth Lloyd, Alioscia Hamma, <i> Learning efficient decoders for quasi-chaotic quantum scramblers </i>, [https://doi.org/10.48550/arXiv.2212.11338](https://doi.org/10.48550/arXiv.2212.11338)
+* Salvatore F.E. Oliviero, Lorenzo Leone, Seth Lloyd, Alioscia Hamma, <i> Black hole complexity, unscrambling and stabilizer thermal machines </i>, [https://doi.org/10.48550/arXiv.2212.11337](https://doi.org/10.48550/arXiv.2212.11337)
 
 
 
