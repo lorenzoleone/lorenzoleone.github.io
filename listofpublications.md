@@ -30,6 +30,8 @@ categories: media
 
 * Lorenzo Leone, Salvatore F.E. Oliviero, Lukasz Cincio, Marco Cerezo, <i> On the practical usefulness of Hardware Efficient ansatz </i>, [https://doi.org/10.48550/arXiv.2211.01477](https://doi.org/10.48550/arXiv.2211.01477)
 
+* Lorenzo Leone, Salvatore F.E. Oliviero, Gianluca Esposito, Alioscia Hamma, <i> Phase transition in Stabilizer Entropy and efficient purity estimation </i>, [https://doi.org/10.48550/arXiv.2302.07895](https://doi.org/10.48550/arXiv.2302.07895)
+
 * Lorenzo Leone, Salvatore F.E. Oliviero, Seth Lloyd, Alioscia Hamma, <i> Learning efficient decoders for quasi-chaotic quantum scramblers </i>, [https://doi.org/10.48550/arXiv.2212.11338](https://doi.org/10.48550/arXiv.2212.11338)
 * Salvatore F.E. Oliviero, Lorenzo Leone, Seth Lloyd, Alioscia Hamma, <i> Black hole complexity, unscrambling and stabilizer thermal machines </i>, [https://doi.org/10.48550/arXiv.2212.11337](https://doi.org/10.48550/arXiv.2212.11337)
 
